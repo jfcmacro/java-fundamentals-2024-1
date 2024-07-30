@@ -1,0 +1,2 @@
+public DosFrancesa extends FiguraFrancesa {
+}

@@ -1,0 +1,2 @@
+public JackFrancesa extends FiguraFrancesa {
+}
