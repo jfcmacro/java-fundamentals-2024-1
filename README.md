@@ -47,6 +47,10 @@ Course of Java Fundamentals EPAM Mexico and Colombia. Sessions, Exercises, Chall
 2. [Figures](https://gitlab.com/juan_cardona_epam/figures) 
 3. [Figures Extra](https://gitlab.com/juan_cardona_epam/figures-extra) 
 
+### Nested Classes
+
+1. [Contact Book](https://gitlab.com/juan_cardona_epam/contact-book)
+2. [Arithmetic Expressions](https://gitlab.com/juan_cardona_epam/arithmetic-expressions)
 
 ### Working with Strings
 
@@ -58,11 +62,6 @@ Course of Java Fundamentals EPAM Mexico and Colombia. Sessions, Exercises, Chall
 
 1. [Requirements](https://gitlab.com/juan_cardona_epam/requirements) 
 1. [Catch em All](https://gitlab.com/juan_cardona_epam/catch-em-all)
-
-### Nested Classes
-
-1. [Contact Book](https://gitlab.com/juan_cardona_epam/contact-book)
-2. [Arithmetic Expressions](https://gitlab.com/juan_cardona_epam/arithmetic-expressions)
 
 ### Annotations
 
@@ -88,30 +87,36 @@ Course of Java Fundamentals EPAM Mexico and Colombia. Sessions, Exercises, Chall
 
 ### Introduction to Collections
 
-1. Iterating Collections <!-- TODO: Search Not found -->
+1. [Iterating Collections](https://gitlab.com/juan_cardona_epam/newpostoffice)
 
 ### Lists and Queues
 
-1. [Simple ArrayList Task](https://gitlab.com/juan_cardona_epam/simplearraylist-task) <!-- TODO: A complaince test is not passed -->
-2. [Doubly Linked List Skeleton](https://gitlab.com/juan_cardona_epam/doubly-linked-list-skeleton)
-3. [New Post Office Storage](https://gitlab.com/juan_cardona_epam/newpostofficestorage-task)
+1. [Simple ArrayList Task](https://gitlab.com/juan_cardona_epam/simplearraylist-task)
+2. [Single Linked List](https://gitlab.com/juan_cardona_epam/singlelinkedlist-task)
+3. [Doubly Linked List Skeleton](https://gitlab.com/juan_cardona_epam/doubly-linked-list-skeleton)
+4. [New Post Office Storage](https://gitlab.com/juan_cardona_epam/newpostofficestorage-task)
+5. [Shop](https://gitlab.com/juan_cardona_epam/shop-skeleton) <!-- TODO: Fails some tests -->
 
 ### Sets
 
-1. [Ranged ops integer set master](https://gitlab.com/juan_cardona_epam/ranged-ops-integer-set-master)
-2. [Project Skills Skeleton](https://gitlab.com/juan_cardona_epam/project-skills-skeleton) <!-- TODO -->
+1. [Hashtable Open 8-16](https://gitlab.com/juan_cardona_epam/hashtable-open-8-16-master) <!-- TODO: Fails some tests -->
+2. [Binary Tree](https://gitlab.com/juan_cardona_epam/binary-tree-task)
+3. [Ranged ops integer set master](https://gitlab.com/juan_cardona_epam/ranged-ops-integer-set-master)
+4. [Project Skills Skeleton](https://gitlab.com/juan_cardona_epam/project-skills-skeleton)
 
-### Maps
+### Maps	
 
-1. [Books Catalog](https://gitlab.com/juan_cardona_epam/bookscatalog-task) <!-- TODO -->
+1. [Collections Count Words](https://gitlab.com/juan_cardona_epam/collections-count-words-master)
+1. [Books Catalog](https://gitlab.com/juan_cardona_epam/bookscatalog-task) <!-- TODO: Fails some tests -->
 
 ### Legacy Collections
 
+1. [Properties](https://gitlab.com/juan_cardona_epam/properties-skeleton)
+
 ### Collection Algorithms
 
-1. [Student Gradebook Skeleton](https://gitlab.com/juan_cardona_epam/student-gradebook-skeleton) <!-- TODO -->
-
-
+1. [New Post Office Management](https://gitlab.com/juan_cardona_epam/newpostofficemanagement-task)
+1. [Student Gradebook Skeleton](https://gitlab.com/juan_cardona_epam/student-gradebook-skeleton) 
 
 ## I/O
 
@@ -119,8 +124,10 @@ Course of Java Fundamentals EPAM Mexico and Colombia. Sessions, Exercises, Chall
 
 ### Introduction to I/O Streams
 
-1. Licence Reader <!-- TODO: Search this one. Not found -->
-2. Chiper Creator <!-- TODO: Search this one. Not found -->
+1. [Console Reader](https://gitlab.com/juan_cardona_epam/console-reader)
+2. [Symbols Distributor](https://gitlab.com/juan_cardona_epam/symbols-distributor) <!-- TODO -->
+3. [License Reader](https://gitlab.com/juan_cardona_epam/license-reader) <!-- TODO -->
+4. [Cipher Creator](https://gitlab.com/juan_cardona_epam/cipher-creator) <!-- TODO -->
 
 ### Other I/O Streams
 
@@ -147,4 +154,4 @@ Course of Java Fundamentals EPAM Mexico and Colombia. Sessions, Exercises, Chall
 ### Stream API
 
 1. Stream API basics <!-- TODO: Search this exercises. And Do all them -->
-2. Stream API Intermediate <!-- TODO: Search this exercises. And Do all them -->
+   1. Stream API Intermediate <!-- TODO: Search this exercises. And Do all them -->

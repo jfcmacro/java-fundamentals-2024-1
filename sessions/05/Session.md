@@ -5,7 +5,8 @@
 ## Agenda
 
 * Introduction
-* String
+* Working with Strings
+* Regular Expressions
 * Errors and Exceptions
 * Error Handling
 * Examples
@@ -33,7 +34,7 @@ title: CharSequence
 classDiagram
    class CharSequence {
        <<Interface>>
-       + charAt(index:int)
+       + charAt(index:int) char
        + chars() IntStream
        + codePoints() IntStream
        + compare(cs1: CharSequence, cs2: CharSequence) int$
@@ -131,6 +132,16 @@ classDiagram
 
 ----
 
+## Regular Expression
+
+> A regular expression (*regex*) describes a text pattern. 
+>
+> Regular expressions are used with many tools (`java.util.regex` package), text editors, and many scripting languages, to provide sophisticate text-searching and string manipulation capabilites.
+
+
+
+
+
 ## Error and Exceptions
 
 > You will always encounter errors in the real world.
@@ -169,8 +180,8 @@ classDiagram
 ## Exception Handling
 
 ```java
-try {
-    readFromFile("foo");
+try (File file = new File("Fichero");){
+    file.read();
 } catch (Exception e) {
     System.out.println("Exception while reading file: " + e);
 }
